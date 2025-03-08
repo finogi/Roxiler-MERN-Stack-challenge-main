@@ -1,0 +1,8 @@
+steps to run
+
+
+cd .\Roxiler-MERN-Stack-challenge-main-main\
+cd .\roxiler-challenge\
+cd .\frontend\
+npm install
+npm start
